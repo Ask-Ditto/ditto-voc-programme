@@ -1,0 +1,32 @@
+{
+  "name": "ditto-voc-programme",
+  "description": "Build an always-on Voice of Customer programme with monthly pulse checks, quarterly deep dives, and longitudinal tracking. Produces 6 VoC deliverables: customer journey map, pain priority matrix, language library, unmet needs report, decision criteria hierarchy, and product feedback synthesis. Uses Ditto's 300K+ AI personas.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ditto (Ask Ditto Inc.)",
+    "email": "support@askditto.io"
+  },
+  "homepage": "https://askditto.io/claude-code-guide",
+  "repository": "https://github.com/Ask-Ditto/ditto-voc-programme",
+  "license": "MIT",
+  "keywords": [
+    "voice-of-customer",
+    "voc",
+    "customer-feedback",
+    "pulse-check",
+    "customer-journey",
+    "language-library",
+    "pain-matrix",
+    "longitudinal-tracking",
+    "synthetic-personas",
+    "ditto"
+  ],
+  "category": "research",
+  "tags": [
+    "research",
+    "customer-success",
+    "product-management",
+    "voice-of-customer",
+    "api-integration"
+  ]
+}
